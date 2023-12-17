@@ -1,6 +1,6 @@
 # Frontend Mentor - Project Name solution
 
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/QR-Code-Component?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/eonraider/project-name)
+[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/project-name?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/eonraider/project-name)
 [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-EONRaider-blue?style=flat-square)](https://www.frontendmentor.io/profile/EONRaider)
 
 This is a solution to the [Project Name](https://www.frontendmentor.io/challenges/). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
