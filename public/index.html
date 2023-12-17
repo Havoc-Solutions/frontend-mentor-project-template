@@ -1,11 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="css/style.css" />
-    <title>Project Title</title>
-  </head>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="shortcut icon" href="images/favicon-32x32.png" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap"
+        rel="stylesheet">
+  <title>Stats Preview Card Component</title>
+</head>
 
-  <body></body>
+<body class="flex-center font-inter bg-primary">
+<main class="card | bg-secondary border-r-8px">
+  <section class="card-content">
+    <h1 class="card-content__title">Get <span class="card-content__title-highlight">insights</span> that help your
+      business grow.</h1>
+    <p class="card-content__text">Discover the benefits of data analytics and make better decisions regarding revenue,
+      customer experience, and overall efficiency.</p>
+    <div class="card-content-stats-container">
+      <div class="card-stats">
+        <h2 class="card-stats__value">10k+</h2>
+        <p class="card-stats__label | font-lexend-deca">companies</p>
+      </div>
+      <div class="card-stats" id="card-stats__block2">
+        <h2 class="card-stats__value">314</h2>
+        <p class="card-stats__label | font-lexend-deca ">templates</p>
+      </div>
+      <div class="card-stats" id="card-stats__block3">
+        <h2 class="card-stats__value">12M+</h2>
+        <p class="card-stats__label | font-lexend-deca">queries</p>
+      </div>
+    </div>
+  </section>
+  <div class="card-image"></div>
+</main>
+</body>
 </html>
