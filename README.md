@@ -9,8 +9,9 @@ improve your coding skills by building realistic projects.
 ## Table of contents
 
 - [Overview](#overview)
-    - [Screenshot](#screenshot)
     - [Links](#links)
+    - [Screenshot](#screenshot)
+- [Try it out!](#try-it-out)
     - [Run with Node.js](#run-with-nodejs)
     - [Run with Docker](#run-with-docker)
 - [My process](#my-process)
@@ -19,18 +20,18 @@ improve your coding skills by building realistic projects.
 
 ## Overview
 
-A short description of the project
+### Links
+
+- [Check the Live Site](https://project.netlify.app/)
+- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/project)
 
 ### Screenshot
 
-### Links
-
-- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/project)
-- [Check the Live Site](https://project.netlify.app/)
+## Try it out!
 
 ### Run with Node.js
 
-The app will be available at http://localhost:4000/
+The app will be available at http://127.0.0.1:4000/
 
 ```shell
 npm install && npm start
@@ -38,7 +39,7 @@ npm install && npm start
 
 ### Run with Docker
 
-The app will be available at http://localhost:3000/
+The app will be available at http://127.0.0.1:3000/
 
 ```shell
 docker run -d -p 3000:3000 eonraider/project
