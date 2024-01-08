@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "project",
   "version": "1.0.0",
-  "description": "A brief description of the project",
+  "description": "A brief description of project",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EONRaider/Project-Name.git"
+    "url": "git+https://github.com/EONRaider/Project.git"
   },
   "author": "EONRaider",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EONRaider/Project-Name/issues"
+    "url": "https://github.com/EONRaider/Project/issues"
   },
-  "homepage": "https://github.com/EONRaider/Project-Name#readme",
+  "homepage": "https://github.com/EONRaider/Project#readme",
   "prettier": {
     "trailingComma": "es5",
     "tabWidth": 2,
@@ -26,11 +26,11 @@
     "singleQuote": true
   },
   "devDependencies": {
-    "prettier": "^2.6.2",
-    "eslint": "^8.11.0",
+    "prettier": "^3.1.1",
+    "eslint": "^8.56.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.2",
     "nodemon": "^3.0.2"
   },
   "dependencies": {

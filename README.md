@@ -1,18 +1,21 @@
-# Frontend Mentor - Project Name solution
+# Frontend Mentor - Project solution
 
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/project-name?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/eonraider/project-name)
+[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/project?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/eonraider/project)
 [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-EONRaider-blue?style=flat-square)](https://www.frontendmentor.io/profile/EONRaider)
 
-This is a solution to the [Project Name](https://www.frontendmentor.io/challenges/). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Project](https://www.frontendmentor.io/challenges/). Frontend Mentor challenges help you
+improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [Run with Node.js](#run-with-nodejs)
+    - [Run with Docker](#run-with-docker)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
 
 ## Overview
 
@@ -22,8 +25,24 @@ A short description of the project
 
 ### Links
 
-- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/project-name)
-- [Check the Live Site](https://project-name.netlify.app/)
+- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/project)
+- [Check the Live Site](https://project.netlify.app/)
+
+### Run with Node.js
+
+The app will be available at http://localhost:4000/
+
+```shell
+npm install && npm start
+```
+
+### Run with Docker
+
+The app will be available at http://localhost:3000/
+
+```shell
+docker run -d -p 3000:3000 eonraider/project
+```
 
 ## My process
 
