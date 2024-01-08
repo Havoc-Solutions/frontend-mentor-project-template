@@ -19,18 +19,9 @@
     "url": "https://github.com/EONRaider/Project/issues"
   },
   "homepage": "https://github.com/EONRaider/Project#readme",
-  "prettier": {
-    "trailingComma": "es5",
-    "tabWidth": 2,
-    "semi": false,
-    "singleQuote": true
-  },
   "devDependencies": {
-    "prettier": "^3.1.1",
     "eslint": "^8.56.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.1.2",
     "nodemon": "^3.0.2"
   },
   "dependencies": {
