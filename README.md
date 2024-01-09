@@ -3,7 +3,7 @@
 [![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/EONRaider/project?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/eonraider/project)
 [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-EONRaider-blue?style=flat-square)](https://www.frontendmentor.io/profile/EONRaider)
 
-This is a solution to the [Project](https://www.frontendmentor.io/challenges/). Frontend Mentor challenges help you
+This is a solution to [Project](). Frontend Mentor challenges help you
 improve your coding skills by building realistic projects.
 
 ## Table of contents
@@ -22,8 +22,8 @@ improve your coding skills by building realistic projects.
 
 ### Links
 
-- [Check the Live Site](https://project.netlify.app/)
-- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/project)
+- [Check the Live Site](https://eonraider-project.netlify.app/)
+- [My Solution on Frontend Mentor]()
 
 ### Screenshot
 
