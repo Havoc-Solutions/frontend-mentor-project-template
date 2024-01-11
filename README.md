@@ -23,7 +23,7 @@ improve your coding skills by building realistic projects.
 
 ### Links
 
-- [Check the Live Site](https://eonraider-$project-name.netlify.app/)
+- [Check the Live Site](https://eon-$project-name.netlify.app/)
 - [My Solution on Frontend Mentor]()
 
 ### Screenshot

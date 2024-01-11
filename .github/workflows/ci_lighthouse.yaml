@@ -9,5 +9,5 @@ jobs:
       - name: Lighthouse
         uses: foo-software/lighthouse-check-action@master
         with:
-          urls: 'https://eonraider-${{ github.event.repository.name }}.netlify.app/'
+          urls: 'https://eon-${{ github.event.repository.name }}.netlify.app/'
           device: 'all'
