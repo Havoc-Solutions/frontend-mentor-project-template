@@ -17,8 +17,8 @@ figure, blockquote, dl, dd {
   margin-block-end: 0;
 }
 
-ul[role=list],
-ol[role=list] {
+ul[role='list'],
+ol[role='list'] {
   list-style: none;
 }
 
@@ -31,5 +31,3 @@ input, button,
 textarea, select {
   font: inherit;
 }
-
-/*# sourceMappingURL=style.css.map */
