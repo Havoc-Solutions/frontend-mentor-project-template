@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Havoc-Solutions/Project.git"
+    "url": "git+https://github.com/Havoc-Solutions/project.git"
   },
   "author": "EONRaider",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Havoc-Solutions/Project/issues"
+    "url": "https://github.com/Havoc-Solutions/project/issues"
   },
-  "homepage": "https://github.com/Havoc-Solutions/Project#readme",
+  "homepage": "https://github.com/Havoc-Solutions/project#readme",
   "devDependencies": {
     "@tsconfig/strictest": "^2.0.2",
     "@typescript-eslint/eslint-plugin": "^6.19.0",
