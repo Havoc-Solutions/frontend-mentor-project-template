@@ -1,4 +1,4 @@
-# Frontend Mentor - $ProjectName solution
+# Frontend Mentor - $ProjectName
 
 [![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/Havoc-Solutions/$project-name?label=CodeFactor&logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/Havoc-Solutions/$project-name)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=flat-square&targetUrl=https%3A%2F%2Feon-$project-name.netlify.app%2F)
